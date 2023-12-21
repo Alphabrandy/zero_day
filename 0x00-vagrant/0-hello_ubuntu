@@ -1,0 +1,3 @@
+The uname command, when run without any options, prints the name of the operating system 
+on which it is executed.
+If you run it in a Unix-like operating system, it typically displays information about the kernel. For example, it might output something like "Linux" or "Darwin" (for macOS) depending on the underlying operating system.
